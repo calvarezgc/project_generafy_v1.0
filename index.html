@@ -467,17 +467,22 @@
           data-element_type="column">
           <div class="elementor-widget-wrap elementor-element-populated">
             <div class="elementor-element elementor-widget elementor-widget-image" data-element_type="widget">
-              <div class="elementor-widget-container">
-                <img width="2000" height="2000"
-                  src="http://generafy.com/wp-content/uploads/2022/10/Sin-titulo-1000-×-2000-px-1200-×-2000-px-2000-×-2000-px.png"
-                  class="attachment-2048x2048 size-2048x2048" alt="" loading="lazy" srcset="
-                      http://generafy.com/wp-content/uploads/2022/10/Sin-titulo-1000-×-2000-px-1200-×-2000-px-2000-×-2000-px.png           2000w,
-                      http://generafy.com/wp-content/uploads/2022/10/Sin-titulo-1000-×-2000-px-1200-×-2000-px-2000-×-2000-px-300x300.png    300w,
-                      http://generafy.com/wp-content/uploads/2022/10/Sin-titulo-1000-×-2000-px-1200-×-2000-px-2000-×-2000-px-1024x1024.png 1024w,
-                      http://generafy.com/wp-content/uploads/2022/10/Sin-titulo-1000-×-2000-px-1200-×-2000-px-2000-×-2000-px-150x150.png    150w,
-                      http://generafy.com/wp-content/uploads/2022/10/Sin-titulo-1000-×-2000-px-1200-×-2000-px-2000-×-2000-px-768x768.png    768w,
-                      http://generafy.com/wp-content/uploads/2022/10/Sin-titulo-1000-×-2000-px-1200-×-2000-px-2000-×-2000-px-1536x1536.png 1536w
-                    " sizes="(max-width: 2000px) 100vw, 2000px" />
+              <div class="sliderContainer" id="sliderContent">
+                <div id="sliderArrows">
+                  <span id="slideLeft"><i class="fas fa-chevron-left"></i></span>
+                  <span id="slideRight"><i class="fas fa-chevron-right"></i></span>
+                </div>
+                <!-- Slider Images -->
+                <div id="sliderImages">
+                  <img class="slideImg" src="./carousel_slider/img/carousel_slider_img1.jpg" loading="lazy" />
+                  <img class="slideImg" src="./carousel_slider/img/carousel_slider_img2.jpg" loading="lazy" />
+                  <img class="slideImg" src="./carousel_slider/img/carousel_slider_img3.jpg" loading="lazy" />
+                  <img class="slideImg" src="./carousel_slider/img/carousel_slider_img4.jpg" loading="lazy" />
+                  <img class="slideImg" src="./carousel_slider/img/carousel_slider_img5.jpg" loading="lazy" />
+                  <img class="slideImg" src="./carousel_slider/img/carousel_slider_img6.jpg" loading="lazy" />
+                </div>
+                <!-- Slider Indicator -->
+                <div id="sliderIndicators"></div>
               </div>
             </div>
             <div class="elementor-element  elementor-invisible elementor-widget" data-element_type="widget"
@@ -1899,6 +1904,9 @@
   <!-- DONDE SALE LA CHICA DE TELEASISTENCIA -->
   <script src="./scripts/jet-widgets.js"></script>
 
+
+  <link rel="stylesheet" type="text/css" href="./carousel_slider/carousel_slider.css" />
+  <script src="./carousel_slider/carousel_slider.js"></script>
 </body>
 
 </html>
