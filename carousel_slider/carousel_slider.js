@@ -19,7 +19,7 @@ var slideNbr = 1;
 /**
  * Enable/Disable auto slide for the slider with duration.
  */
-autoSlide(true, 2500);
+autoSlide(true, 4000);
 
 /**
  * Slide the slider to the previous img.

@@ -86,20 +86,17 @@
 }
 
 
-/* ELEMENT cf6029f NAV */
-.elementor-element-cf6029f .elementor-menu-toggle {
+.elementor-element-container-nav .elementor-menu-toggle {
   margin: 0 auto;
 }
 
-.elementor-element-cf6029f .elementor-nav-menu--main .elementor-item {
+.elementor-element-container-nav .elementor-nav-menu--main .elementor-item {
   font-size: 18px;
   color: #FFFFFF;
   fill: #FFFFFF;
 }
 
-
 /* MENU MOBILE */
-
 .navigation-mobile {
   height: 70px;
   background-color: #09161C;
@@ -112,7 +109,6 @@
 .nav-container {
   max-width: 1000px;
   margin: 0 auto;
-
 }
 
 .brand {
@@ -211,8 +207,8 @@ nav ul li ul li a {
 
 @media only screen and (max-width: 800px) {
 
-  .elementor-element-38528d87>.elementor-container>.elementor-column>.elementor-widget-wrap {
-    min-height: 0vh;
+  .elementor-element-header>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    min-height: 0vh !important;
 
   }
 

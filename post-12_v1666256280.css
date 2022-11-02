@@ -979,6 +979,9 @@ body.rtl .elementor-12 .elementor-element.elementor-element-experto4 .jw-team-me
   align-items: center;
 }
 
+.elementor-element-div-footer h3 {
+  margin-bottom: 20px;
+}
 
 @media(max-width:1024px) {
   .elementor-12 .elementor-element.elementor-element-header {
