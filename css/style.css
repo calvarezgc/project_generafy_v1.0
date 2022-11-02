@@ -42,10 +42,6 @@
   display: inline-block;
 }
 
-.elementor-nav-menu--layout-horizontal {
-  display: flex;
-}
-
 .elementor-section {
   position: relative;
 }
