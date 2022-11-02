@@ -1,0 +1,135 @@
+/* elementor-kit-26 == fuentes */
+
+.fuentes {
+  --e-global-color-primary: #0B1A21;
+  --e-global-color-secondary: #202020;
+  --e-global-color-text: #FFFFFF;
+  --e-global-color-accent: #F56F00;
+  --e-global-color-59368aa: #09161C;
+  --e-global-typography-primary-font-family: "Rubik";
+  --e-global-typography-primary-font-weight: 600;
+  --e-global-typography-secondary-font-family: "Rubik";
+  --e-global-typography-secondary-font-weight: 400;
+  --e-global-typography-text-font-family: "Montserrat";
+  --e-global-typography-text-font-weight: 400;
+  --e-global-typography-accent-font-family: "Montserrat";
+  --e-global-typography-accent-font-size: 16px;
+  --e-global-typography-accent-font-weight: 600;
+  --e-global-typography-accent-text-transform: uppercase;
+  color: #FFFFFF;
+  font-family: "Montserrat", Sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+  background-color: var(--e-global-color-59368aa);
+}
+
+.fuentes h1 {
+  font-family: "Rubik", Sans-serif;
+  font-size: 70px;
+  font-weight: 700;
+  text-transform: capitalize;
+  line-height: 75px;
+}
+
+.fuentes h2 {
+  color: #FFFFFF;
+  font-family: "Rubik", Sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: capitalize;
+  line-height: 60px;
+}
+
+.fuentes h3 {
+  color: #FFFFFF;
+  font-family: "Rubik", Sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.fuentes h4 {
+  color: #FFFFFF;
+  font-family: "Rubik", Sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 36px;
+}
+
+.fuentes h5 {
+  color: #FFFFFF;
+  font-family: "Rubik", Sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 30px;
+}
+
+.fuentes h6 {
+  color: #FFFFFF;
+  font-family: "Rubik", Sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 25px;
+  margin: auto;
+}
+
+.fuentes button,
+.fuentes input[type="button"],
+.fuentes input[type="submit"],
+.fuentes .elementor-button {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--e-global-color-text);
+  background-color: var(--e-global-color-accent);
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-color: #FFFFFF;
+  border-radius: 5px 5px 5px 5px;
+  padding: 20px 40px 20px 40px;
+}
+
+
+@media(max-width:1024px) {
+  .fuentes {
+    font-size: 14px;
+  }
+
+  .fuentes h1 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .fuentes h2 {
+    font-size: 28px;
+    line-height: 38px;
+  }
+
+  .fuentes h5 {
+    font-size: 18px;
+  }
+
+  .elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1024px;
+  }
+
+  .e-container {
+    --container-max-width: 1024px;
+  }
+}
+
+@media(max-width:767px) {
+  .fuentes h1 {
+    font-size: 32px;
+    line-height: 42px;
+  }
+
+  .elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 767px;
+  }
+
+  .e-container {
+    --container-max-width: 767px;
+  }
+}

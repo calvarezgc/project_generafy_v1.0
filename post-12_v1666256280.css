@@ -1,0 +1,1242 @@
+  /* .elementor-element-4722eedb>.elementor-element-populated {
+    margin: 15px 0px 0px 0px;
+  } */
+  /* .elementor-element-4722eedb>.elementor-element-populated {
+    margin: 0px 0px 0px 15px;
+  } */
+  /* .elementor-element-4722eedb>.elementor-element-populated {
+      margin: 0px 0px 0px 5px;
+  } */
+
+
+
+  /* ELEMENT 53ec8c7f preguntas frecuentes */
+  .elementor-element-53ec8c7f {
+    margin-top: 0px;
+    margin-bottom: 50px;
+  }
+
+  .elementor-element-53ec8c7f>.elementor-container {
+    max-width: 560px;
+  }
+
+  /* ELEMENT 8cbf405 CONTADOR */
+  .elementor-element-8cbf405 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 50px 0px 50px 0px;
+  }
+
+  .elementor-element-8cbf405>.elementor-background-overlay {
+    background-color: var(--e-global-color-59368aa);
+    opacity: 0.85;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  }
+
+  .elementor-element-8cbf405>.elementor-background-overlay {
+    background-color: var(--e-global-color-59368aa);
+    opacity: 0.85;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  }
+
+  .elementor-element-8cbf405:not(.elementor-motion-effects-element-type-background),
+  .elementor-element-8cbf405>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("http://generafy.com/wp-content/uploads/2022/10/happy-young-business-people-colleagues-talking-wor-9C7FL4V.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .elementor-element-8cbf405:not(.elementor-motion-effects-element-type-background),
+  .elementor-element-8cbf405>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-attachment: fixed;
+    background-image: url("http://generafy.com/wp-content/uploads/2022/10/happy-young-business-people-colleagues-talking-wor-9C7FL4V.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  @media (max-width: 1024px) {
+
+    .elementor-element-8cbf405:not(.elementor-motion-effects-element-type-background),
+    .elementor-element-8cbf405>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+      background-attachment: initial;
+    }
+
+
+
+  }
+
+  @media (max-width: 800px) {
+    .elementor-element-38528d87 {
+      padding: 0px 0px 0px 0px;
+    }
+
+
+
+  }
+
+  /* ELEMENT 38528d87 HEADER */
+
+  .elementor-element-38528d87 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: -120px;
+    margin-bottom: 0px;
+    padding: 60px 0px 0px 0px;
+  }
+
+  .elementor-element-38528d87>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    min-height: 100vh;
+    align-content: center;
+    align-items: center;
+  }
+
+  .elementor-element-38528d87:not(.elementor-motion-effects-element-type-background),
+  .elementor-element-38528d87>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("./img/businesswomen-and-architects-talking-in-office-G8HSQE9-1.jpg");
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+
+  .elementor-element-38528d87>.elementor-background-overlay {
+    background-image: url("./img/hero.png");
+    background-position: center left;
+    background-size: cover;
+    opacity: 1;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  }
+
+
+  /* ELEMENT 2ece173d BOTON NUMERO DE TELEFONO */
+  .elementor-element-2ece173d.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+  }
+
+  /* ELEMENT 64fc642e AUTOMATIZA */
+  .elementor-element-64fc642e .elementor-heading-title {
+    color: #FFFFFF;
+    margin: 0px 0px 30px 0px;
+  }
+
+  /* ELEMENT 4dd8e7e3 SECCION 5 FASES & 5 MARCAS */
+  .elementor-element-4dd8e7e3 {
+    margin-top: 0px;
+    margin-bottom: 50px;
+  }
+
+  .elementor-element-4dd8e7e3>.elementor-container {
+    max-width: 560px;
+  }
+
+
+  /* ELEMENT 7eeb72e9 5 FASES & 5 MARCAS */
+  /* ELEMENT 39a63973 Aceleradora Generafy */
+  /* ELEMENT 3bce52cc Nuestras marcas especializadas  */
+  .elementor-element-7eeb72e9,
+  .elementor-element-39a63973,
+  .elementor-element-3bce52cc {
+    text-align: center;
+  }
+
+  .elementor-element-7eeb72e9>.elementor-widget-container {
+    margin: 0px 0px 15px 0px;
+  }
+
+  .elementor-element-39a63973>.elementor-widget-container {
+    margin: 0px 0px 10px 0px;
+  }
+
+  /* ELEMENT 7f29e01f DIV clickafy  */
+  .elementor-element-7f29e01f>.elementor-element-populated {
+    margin: 0px 15px 0px 0px;
+  }
+
+
+  /* ELEMENT 5fd11749 Clickafy*/
+  /* ELEMENT 1310d10c Lead Converter*/
+  /* ELEMENT 79d1be80 Lead Generator*/
+  /* ELEMENT 73c7425e Diferénciate*/
+  /* ELEMENT 2069e44  Impulsate*/
+
+  .elementor-element-5fd11749,
+  .elementor-element-1310d10c,
+  .elementor-element-79d1be80,
+  .elementor-element-73c7425e {
+    --icon-box-icon-margin: 15px;
+  }
+
+  .elementor-element-5fd11749 .elementor-icon,
+  .elementor-element-1310d10c .elementor-icon,
+  .elementor-element-79d1be80 .elementor-icon,
+  .elementor-element-73c7425e .elementor-icon,
+  .elementor-element-2069e44 .elementor-icon {
+    font-size: 40px;
+  }
+
+  .elementor-element-5fd11749 .elementor-icon-box-wrapper,
+  .elementor-element-1310d10c .elementor-icon-box-wrapper,
+  .elementor-element-79d1be80 .elementor-icon-box-wrapper,
+  .elementor-element-73c7425e .elementor-icon-box-wrapper {
+    text-align: left;
+  }
+
+  .elementor-element-5fd11749 .elementor-icon-box-title,
+  .elementor-element-1310d10c .elementor-icon-box-title,
+  .elementor-element-79d1be80 .elementor-icon-box-title,
+  .elementor-element-2069e44 .elementor-icon-box-title,
+  .elementor-element-73c7425e .elementor-icon-box-title {
+    margin-bottom: 15px;
+  }
+
+  .elementor-element-5fd11749 .elementor-icon-box-title,
+  .elementor-element-5fd11749 .elementor-icon-box-title a,
+  .elementor-element-1310d10c .elementor-icon-box-title,
+  .elementor-element-1310d10c .elementor-icon-box-title a,
+  .elementor-element-79d1be80 .elementor-icon-box-title,
+  .elementor-element-79d1be80 .elementor-icon-box-title a,
+  .elementor-element-2069e44 .elementor-icon-box-title,
+  .elementor-element-2069e44 .elementor-icon-box-title a,
+  .elementor-element-73c7425e .elementor-icon-box-title,
+  .elementor-element-73c7425e .elementor-icon-box-title a {
+    font-size: 28px;
+  }
+
+  .elementor-element-5fd11749 .elementor-icon-box-description,
+  .elementor-element-1310d10c .elementor-icon-box-description,
+  .elementor-element-79d1be80 .elementor-icon-box-description,
+  .elementor-element-2069e44 .elementor-icon-box-description,
+  .elementor-element-73c7425e .elementor-icon-box-description {
+    font-size: 12px;
+  }
+
+  .elementor-element-5fd11749.elementor-view-stacked .elementor-icon,
+  .elementor-element-1310d10c.elementor-view-stacked .elementor-icon,
+  .elementor-element-2069e44.elementor-view-stacked .elementor-icon,
+  .elementor-element-73c7425e.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-accent);
+  }
+
+  .elementor-element-5fd11749.elementor-view-framed .elementor-icon,
+  .elementor-element-5fd11749.elementor-view-default .elementor-icon,
+  .elementor-element-1310d10c.elementor-view-framed .elementor-icon,
+  .elementor-element-1310d10c.elementor-view-default .elementor-icon,
+  .elementor-element-79d1be80.elementor-view-framed .elementor-icon,
+  .elementor-element-79d1be80.elementor-view-default .elementor-icon,
+  .elementor-element-2069e44.elementor-view-framed .elementor-icon,
+  .elementor-element-2069e44.elementor-view-default .elementor-icon,
+  .elementor-element-73c7425e.elementor-view-framed .elementor-icon,
+  .elementor-element-73c7425e.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-accent);
+    color: var(--e-global-color-accent);
+    border-color: var(--e-global-color-accent);
+  }
+
+  /* element 460fff6f Revoluciona */
+  /* element 5c4e9684 Acelera Tu Negocio */
+  .elementor-element-460fff6f>.elementor-widget-container,
+  .elementor-element-5c4e9684>.elementor-widget-container {
+    margin: 0px 0px 15px 0px;
+  }
+
+  /* element 61c5c66b seccion  Lead Generator  Diferénciate Impulsate */
+  .elementor-element-61c5c66b {
+    margin-top: 30px;
+    margin-bottom: 0px;
+  }
+
+  .elementor-element-2069e44 .elementor-icon-box-wrapper {
+    text-align: left;
+    padding-top: 30px;
+  }
+
+
+  /* element d72268e toda la seccion que somos */
+  .elementor-element-d72268e:not(.elementor-motion-effects-element-type-background),
+  .elementor-element-d72268e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-primary);
+  }
+
+  .elementor-element-d72268e {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 100px 0px 100px 0px;
+  }
+
+  /* .elementor-element-39182d51>.elementor-widget-container {
+    margin: 0px 0px 15px 0px;
+  } */
+
+  /* .elementor-element-51f146ef {
+    font-size: 14px;
+  } */
+
+  /*element 721ad244 columna imagen mascara */
+  .elementor-element-721ad244.elementor-column .elementor-widget-wrap {
+    align-items: center;
+  }
+
+  .elementor-element-721ad244.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+  }
+
+  .elementor-element-721ad244>.elementor-element-populated {
+    margin: 0px 0px 0px 30px;
+  }
+
+  /* element ea8547d texto los numeros nos avalan */
+  .elementor-element-ea8547d {
+    text-align: center;
+  }
+
+  /* .elementor-element-7103912f img {
+    width: 100%;
+    max-width: 100%;
+    height: 400px;
+    object-fit: cover;
+  } */
+
+  /* IMAGEN CON MASCARA */
+  /* .elementor-element-7103912f:not(.elementor-widget-image) .elementor-widget-container {
+    mask-image: url("./img/02_creative-studio.png");
+    -webkit-mask-image: url("./img/02_creative-studio.png");
+    mask-size: contain;
+    -webkit-mask-image: contain;
+    mask-position: center center;
+    -webkit-mask-position: center center;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+  }
+
+  .elementor-element-7103912f.elementor-widget-image .elementor-widget-container img {
+    mask-image: url("./img/02_creative-studio.png");
+    -webkit-mask-image: url("./img/02_creative-studio.png");
+    mask-size: contain;
+    -webkit-mask-image: contain;
+    mask-position: center center;
+    -webkit-mask-position: center center;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+  } */
+
+
+  /* element f6af505 +400 Webs Realizadas */
+  /* element 8b291a6 usuarios crm */
+  /* element 3c1a13d4 leads generados */
+  /* element 3ea5e9b4 consultorias */
+  /* element 236e963fsectores */
+  .elementor-element-f6af505 .pp-counter-container,
+  .elementor-element-8b291a6 .pp-counter-container,
+  .elementor-element-3c1a13d4 .pp-counter-container,
+  .elementor-element-3ea5e9b4 .pp-counter-container,
+  .elementor-element-236e963f .pp-counter-container {
+    text-align: center;
+  }
+
+  /* element 27c79068 seccion nuestros clientes */
+  .elementor-element-27c79068:not(.elementor-motion-effects-element-type-background),
+  .elementor-element-27c79068>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-primary);
+  }
+
+  .elementor-element.elementor-element-27c79068 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 100px 0px 100px 0px;
+  }
+
+  .elementor-element-27c79068>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  }
+
+  /* element 12810608 nuestros clientes dicen */
+  .elementor-element-12810608>.elementor-widget-container {
+    margin: 0px 0px 10px 0px;
+  }
+
+  /* element 494476c3 seccion testimonios */
+  .elementor-element-494476c3 {
+    padding: 0px 15px 0px 15px;
+  }
+
+  /* .elementor-element-23e5dda .elementor-swiper-button {
+    font-size: 20px;
+  } */
+
+  /* element 25a0d451 galeria de imagenes */
+  .elementor-element-25a0d451 .gallery-item {
+    padding: 0 15px 15px 0;
+  }
+
+  .elementor-element-25a0d451 .gallery {
+    margin: 0 -15px -15px 0;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .elementor-element-25a0d451 .gallery-item .gallery-caption {
+    display: none;
+  }
+
+  /* element 710b06cf seccion nuestros expertos */
+  .elementor-element-710b06cf {
+    padding: 100px 0px 100px 0px;
+  }
+
+  /* element 63450c47 seccion EQUIPO NUESTROS EXPERTOS Ad nec unum copiosae */
+  .elementor-element-63450c47>.elementor-container {
+    max-width: 560px;
+  }
+
+  .elementor-element-63450c47 {
+    margin-top: 0px;
+    margin-bottom: 50px;
+  }
+
+  /* element 4ef001af equipo */
+  /* element 7e6cbaee nuestros expertos */
+  /* element 1a428cea Ad nec unum copiosae */
+  .elementor-element-12810608,
+  .elementor-element-4ef001af,
+  .elementor-element-7e6cbaee,
+  .elementor-element-1a428cea {
+    text-align: center;
+  }
+
+  .elementor-element-4ef001af>.elementor-widget-container {
+    margin: 0px 0px 15px 0px;
+  }
+
+  .elementor-element-7e6cbaee>.elementor-widget-container {
+    margin: 0px 0px 10px 0px;
+  }
+
+  /* element 6052fbf4contenedor JacksonPot */
+  .elementor-element-6052fbf4>.elementor-element-populated {
+    margin: 0px 10px 0px 10px;
+  }
+
+  /* element 275cf601 div JacksonPot */
+  .elementor-element-275cf601 .jw-team-member__image {
+    border-radius: 5px 5px 5px 5px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+  }
+
+  .elementor-element-275cf601 .jw-team-member__figure {
+    border-radius: 5px 5px 5px 5px;
+  }
+
+  .elementor-element-275cf601 .jw-team-member__name .jw-team-member__name-first {
+    color: var(--e-global-color-text);
+  }
+
+  .elementor-element-275cf601 .jw-team-member__name .jw-team-member__name-last {
+    color: var(--e-global-color-text);
+  }
+
+  .elementor-element-275cf601 .jw-team-member__name {
+    padding: 0px 0px 0px 0px;
+    margin: 15px 0px 0px 0px;
+    text-align: center;
+    order: 1;
+  }
+
+  .elementor-element-275cf601 .jw-team-member__position {
+    color: #D9D9D9;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    align-self: center;
+    text-align: center;
+    order: 2;
+  }
+
+  .elementor-element-275cf601 .jw-team-member__desc {
+    align-self: center;
+    text-align: center;
+    order: 3;
+  }
+
+  .elementor-element-275cf601 .jw-team-member__socials {
+    align-self: center;
+    order: 4;
+  }
+
+  body:not(.rtl) .elementor-12 .elementor-element.elementor-element-275cf601 .jw-team-member__socials-item:not(:last-child) {
+    margin-right: 15px;
+  }
+
+  body.rtl .elementor-12 .elementor-element.elementor-element-275cf601 .jw-team-member__socials-item:not(:last-child) {
+    margin-left: 15px;
+  }
+
+  .elementor-element-275cf601 .jw-team-member__socials-icon .jet-widgets-icon {
+    color: var(--e-global-color-text);
+    font-size: 16px;
+  }
+
+  .elementor-element-275cf601 .jw-team-member__socials-icon .inner {
+    width: 0px;
+    height: 0px;
+    margin: 10px 5px 0px 5px;
+  }
+
+  .elementor-element-275cf601 .jw-team-member__button-container {
+    justify-content: center;
+    order: 5;
+  }
+
+  .elementor-element-275cf601 .jw-team-member__cover {
+    justify-content: center;
+  }
+
+  /* element 57cf9668 contenedor Jenifar kanto */
+  .elementor-element-57cf9668>.elementor-element-populated {
+    margin: 0px 10px 0px 10px;
+  }
+
+  /* element 275cf601 div Jenifar kanto */
+  .elementor-element-4929c3e8 .jw-team-member__image {
+    border-radius: 5px 5px 5px 5px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+  }
+
+  .elementor-element-4929c3e8 .jw-team-member__figure {
+    border-radius: 5px 5px 5px 5px;
+  }
+
+  .elementor-element-4929c3e8 .jw-team-member__name .jw-team-member__name-first {
+    color: var(--e-global-color-text);
+  }
+
+  .elementor-element-4929c3e8 .jw-team-member__name .jw-team-member__name-last {
+    color: var(--e-global-color-text);
+  }
+
+  .elementor-element-4929c3e8 .jw-team-member__name {
+    padding: 0px 0px 0px 0px;
+    margin: 15px 0px 0px 0px;
+    text-align: center;
+    order: 1;
+  }
+
+  .elementor-element-4929c3e8 .jw-team-member__position {
+    color: #D9D9D9;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    align-self: center;
+    text-align: center;
+    order: 2;
+  }
+
+  .elementor-element-4929c3e8 .jw-team-member__desc {
+    align-self: center;
+    text-align: center;
+    order: 3;
+  }
+
+  .elementor-element-4929c3e8 .jw-team-member__socials {
+    align-self: center;
+    order: 4;
+  }
+
+  body:not(.rtl) .elementor-element-4929c3e8 .jw-team-member__socials-item:not(:last-child) {
+    margin-right: 15px;
+  }
+
+  body.rtl .elementor-element-4929c3e8 .jw-team-member__socials-item:not(:last-child) {
+    margin-left: 15px;
+  }
+
+  .elementor-element-4929c3e8 .jw-team-member__socials-icon .jet-widgets-icon {
+    color: var(--e-global-color-text);
+    font-size: 16px;
+  }
+
+  .elementor-element-4929c3e8 .jw-team-member__socials-icon .inner {
+    width: 0px;
+    height: 0px;
+    margin: 10px 5px 0px 5px;
+  }
+
+  .elementor-element-4929c3e8 .jw-team-member__button-container {
+    justify-content: center;
+    order: 5;
+  }
+
+  .elementor-element-4929c3e8 .jw-team-member__cover {
+    justify-content: center;
+  }
+
+  /* element 47a8f17c contenedor Merathon Jaha */
+  .elementor-element-47a8f17c>.elementor-element-populated {
+    margin: 0px 10px 0px 10px;
+  }
+
+  /* element 59dff76e div Merathon Jaha */
+  .elementor-element-59dff76e .jw-team-member__image {
+    border-radius: 5px 5px 5px 5px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+  }
+
+  .elementor-element-59dff76e .jw-team-member__figure {
+    border-radius: 5px 5px 5px 5px;
+  }
+
+  .elementor-element-59dff76e .jw-team-member__name .jw-team-member__name-first {
+    color: var(--e-global-color-text);
+  }
+
+  .elementor-element-59dff76e .jw-team-member__name .jw-team-member__name-last {
+    color: var(--e-global-color-text);
+  }
+
+  .elementor-element-59dff76e .jw-team-member__name {
+    padding: 0px 0px 0px 0px;
+    margin: 15px 0px 0px 0px;
+    text-align: center;
+    order: 1;
+  }
+
+  .elementor-element-59dff76e .jw-team-member__position {
+    color: #D9D9D9;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    align-self: center;
+    text-align: center;
+    order: 2;
+  }
+
+  .elementor-element-59dff76e .jw-team-member__desc {
+    align-self: center;
+    text-align: center;
+    order: 3;
+  }
+
+  .elementor-element-59dff76e .jw-team-member__socials {
+    align-self: center;
+    order: 4;
+  }
+
+  body:not(.rtl) .elementor-12 .elementor-element.elementor-element-59dff76e .jw-team-member__socials-item:not(:last-child) {
+    margin-right: 15px;
+  }
+
+  body.rtl .elementor-12 .elementor-element.elementor-element-59dff76e .jw-team-member__socials-item:not(:last-child) {
+    margin-left: 15px;
+  }
+
+  .elementor-element-59dff76e .jw-team-member__socials-icon .jet-widgets-icon {
+    color: var(--e-global-color-text);
+    font-size: 16px;
+  }
+
+  .elementor-element-59dff76e .jw-team-member__socials-icon .inner {
+    width: 0px;
+    height: 0px;
+    margin: 10px 5px 0px 5px;
+  }
+
+  .elementor-element-59dff76e .jw-team-member__button-container {
+    justify-content: center;
+    order: 5;
+  }
+
+  .elementor-element-59dff76e .jw-team-member__cover {
+    justify-content: center;
+  }
+
+  /* element 7246209d contenedor Naharon mary */
+  .elementor-element-7246209d>.elementor-element-populated {
+    margin: 0px 10px 0px 10px;
+  }
+
+  /* element 1e5b9f5c div Merathon Jaha */
+  .elementor-element-1e5b9f5c .jw-team-member__image {
+    border-radius: 5px 5px 5px 5px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+  }
+
+  .elementor-element-1e5b9f5c .jw-team-member__figure {
+    border-radius: 5px 5px 5px 5px;
+  }
+
+  .elementor-element-1e5b9f5c .jw-team-member__name .jw-team-member__name-first {
+    color: var(--e-global-color-text);
+  }
+
+  .elementor-element-1e5b9f5c .jw-team-member__name .jw-team-member__name-last {
+    color: var(--e-global-color-text);
+  }
+
+  .elementor-element-1e5b9f5c .jw-team-member__name {
+    padding: 0px 0px 0px 0px;
+    margin: 15px 0px 0px 0px;
+    text-align: center;
+    order: 1;
+  }
+
+  .elementor-element-1e5b9f5c .jw-team-member__position {
+    color: #D9D9D9;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    align-self: center;
+    text-align: center;
+    order: 2;
+  }
+
+  .elementor-element-1e5b9f5c .jw-team-member__desc {
+    align-self: center;
+    text-align: center;
+    order: 3;
+  }
+
+  .elementor-element-1e5b9f5c .jw-team-member__socials {
+    align-self: center;
+    order: 4;
+  }
+
+  body:not(.rtl) .elementor-12 .elementor-element.elementor-element-1e5b9f5c .jw-team-member__socials-item:not(:last-child) {
+    margin-right: 15px;
+  }
+
+  body.rtl .elementor-12 .elementor-element.elementor-element-1e5b9f5c .jw-team-member__socials-item:not(:last-child) {
+    margin-left: 15px;
+  }
+
+  .elementor-element-1e5b9f5c .jw-team-member__socials-icon .jet-widgets-icon {
+    color: var(--e-global-color-text);
+    font-size: 16px;
+  }
+
+  .elementor-element-1e5b9f5c .jw-team-member__socials-icon .inner {
+    width: 0px;
+    height: 0px;
+    margin: 10px 5px 0px 5px;
+  }
+
+  .elementor-element-1e5b9f5c .jw-team-member__button-container {
+    justify-content: center;
+    order: 5;
+  }
+
+  .elementor-element-1e5b9f5c .jw-team-member__cover {
+    justify-content: center;
+  }
+
+  /* element 1e509521 contenedor logos */
+  /* element 616d568b contenedor chica telefono */
+  .elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-1e509521.elementor-column .elementor-widget-wrap,
+  .elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-616d568b.elementor-column .elementor-widget-wrap {
+    align-items: center;
+  }
+
+  .elementor-element-1e509521.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated,
+  .elementor-element-616d568b.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+  }
+
+  .elementor-element-1e509521:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+  .elementor-element-1e509521>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-primary);
+  }
+
+  .elementor-element-1e509521>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 100px 50px 100px 50px;
+  }
+
+  .elementor-element-1e509521>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  }
+
+  /* element 1e509521 div logos */
+  .elementor-element-a4bcc44 .gallery-item {
+    padding: 0 30px 30px 0;
+  }
+
+  .elementor-element-a4bcc44 .gallery {
+    margin: 0 -30px -30px 0;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .elementor-element-a4bcc44 .gallery-item .gallery-caption {
+    text-align: center;
+  }
+
+
+  .elementor-element-616d568b:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+  .elementor-element-616d568b>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("http://generafy.com/wp-content/uploads/2022/10/happy-smiling-woman-working-in-call-center-WZECZ2U.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .elementor-element-616d568b>.elementor-element-populated>.elementor-background-overlay {
+    background-color: var(--e-global-color-primary);
+    opacity: 0.9;
+  }
+
+  .elementor-element-616d568b>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 50px 0px 50px;
+  }
+
+  .elementor-element-616d568b>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  }
+
+  /* element 2ee3bcb2 div chica telefono */
+  .elementor-element-2ee3bcb2 {
+    margin-top: 0px;
+    margin-bottom: 50px;
+  }
+
+  /* element 1e1f290f slider chica telefono */
+  .elementor-element-1e1f290f .jw-testimonials__item-inner {
+    margin: 30px 30px 30px 30px;
+  }
+
+  .elementor-element-1e1f290f .jw-testimonials__tag-img {
+    width: 65px;
+    height: 65px;
+  }
+
+  .elementor-element-1e1f290f .jw-testimonials__figure {
+    border-radius: 50px 50px 50px 50px;
+    margin: 0px 0px 0px 0px;
+    align-self: flex-start;
+    order: 4;
+  }
+
+  .elementor-element-1e1f290f .jw-testimonials__instance .jw-slick-dots li span {
+    background-color: var(--e-global-color-text);
+    width: 8px;
+    height: 8px;
+  }
+
+  .elementor-element-1e1f290f .jw-testimonials__instance .jw-slick-dots li span:hover,
+  .elementor-element-1e1f290f .jw-testimonials__instance .jw-slick-dots li.slick-active span {
+    background-color: var(--e-global-color-accent);
+    width: 10px;
+    height: 10px;
+  }
+
+
+  .elementor-element-1e1f290f .jw-testimonials__instance .jw-slick-dots li {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .elementor-element-1e1f290f .jw-testimonials__instance .jw-slick-dots {
+    justify-content: flex-start;
+  }
+
+  .elementor-element-1e1f290f .jw-testimonials__icon {
+    align-self: center;
+    order: 2;
+  }
+
+  .elementor-element-1e1f290f .jw-testimonials__title {
+    align-self: center;
+    text-align: center;
+    order: 3;
+  }
+
+  .elementor-element-1e1f290f .jw-testimonials__comment {
+    color: #ffffff;
+    width: 100%;
+    background-color: #FFFFFF00;
+    border-radius: 5px 5px 5px 5px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 15px 0px;
+    align-self: flex-start;
+    text-align: left;
+    order: 1;
+  }
+
+  .elementor-element-1e1f290f .jw-testimonials__name {
+    color: var(--e-global-color-text);
+    padding: 0px 0px 0px 90px;
+    margin: -60px 0px 0px 0px;
+    align-self: flex-start;
+    text-align: left;
+    order: 5;
+  }
+
+  .elementor-element-1e1f290f .jw-testimonials__position {
+    color: var(--e-global-color-accent);
+    padding: 0px 0px 0px 90px;
+    margin: 5px 0px 0px 0px;
+    align-self: flex-start;
+    text-align: left;
+    order: 6;
+  }
+
+  .elementor-element-1e1f290f .jw-testimonials__date {
+    align-self: center;
+    text-align: center;
+    order: 7;
+  }
+
+  .elementor-element-1e1f290f .jw-testimonials__rating {
+    font-size: 20px;
+    order: 8;
+  }
+
+  /* element 6506c946 seccion preguntas frecuentes */
+  .elementor-element-6506c946:not(.elementor-motion-effects-element-type-background),
+  .elementor-element-6506c946>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("./img/faq-bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  .elementor-element-6506c946 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 100px 0px 100px 0px;
+  }
+
+  /* .elementor-element-587d8512 img {
+    width: 100%;
+    max-width: 100%;
+    height: 400px;
+    object-fit: cover;
+  } */
+
+  /* .elementor-element-587d8512:not(.elementor-widget-image) .elementor-widget-container {
+    mask-image: url("./img/02_creative-studio.png");
+    -webkit-mask-image: url("./img/02_creative-studio.png");
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    mask-position: center center;
+    -webkit-mask-position: center center;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+  }
+
+  .elementor-element-587d8512.elementor-widget-image .elementor-widget-container img {
+    mask-image: url("./img/02_creative-studio.png");
+    -webkit-mask-image: url("./img/02_creative-studio.png");
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    mask-position: center center;
+    -webkit-mask-position: center center;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+  } */
+
+  /* element 70e6d8f9 acordeon PREGUNTAS FRECUENTES */
+  .elementor-element-70e6d8f9 .pp-accordion-item {
+    margin-bottom: 15px;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #132C38;
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+  }
+
+  .elementor-element-70e6d8f9 .pp-advanced-accordion .pp-accordion-tab-title .pp-accordion-tab-icon {
+    font-size: 14px;
+    margin-right: 10px;
+  }
+
+  .elementor-element-70e6d8f9 .pp-advanced-accordion .pp-accordion-item .pp-accordion-tab-content {
+    color: #E5E5E5;
+  }
+
+  .elementor-element-70e6d8f9 .pp-advanced-accordion .pp-accordion-tab-title .pp-accordion-toggle-icon {
+    font-size: 16px;
+  }
+
+  /* element 405e3f5 seccion blog */
+  .elementor-element-405e3f5:not(.elementor-motion-effects-element-type-background),
+  .elementor-element-405e3f5>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-primary);
+  }
+
+  .elementor-element-405e3f5 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 100px 0px 100px 0px;
+  }
+
+  .elementor-element-405e3f5>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  }
+
+  /* element 405e3f5 textos blog */
+  .elementor-element-4dd6764f>.elementor-container {
+    max-width: 560px;
+  }
+
+  .elementor-element-4dd6764f {
+    margin-top: 0px;
+    margin-bottom: 50px;
+  }
+
+  /* element 15f823de texto blog */
+  /* element 7a46be53 texto our latest de blog */
+  /* element 213363be texto Ad nec unum copiosae de blog */
+  /* element 2c57eab9 texto ad nec unum de preguntas frecuentes */
+  /* element 49834bf texto titulo preguntas frecuentes */
+  /* element 49834bf texto faq de preguntas frecuentes */
+  .elementor-element-15f823de,
+  .elementor-element-7a46be53,
+  .elementor-element-213363be,
+  .elementor-element-2c57eab9,
+  .elementor-element-49834bf,
+  .elementor-element-2773c7fe {
+    text-align: center;
+  }
+
+  .elementor-element-15f823de>.elementor-widget-container {
+    margin: 0px 0px 15px 0px;
+  }
+
+  .elementor-element-7a46be53>.elementor-widget-container {
+    margin: 0px 0px 10px 0px;
+  }
+
+  /* .elementor-element-5f35ea04 {
+    padding: 0px 10px 0px 10px;
+  } */
+
+  /* element f075bff Post de Hello World */
+  .elementor-element-f075bff .jw-posts .jw-posts__inner-content {
+    padding: 0px 0px 0px 0px;
+  }
+
+  .elementor-element-f075bff .jw-posts .entry-title a {
+    color: #E7E7E7;
+  }
+
+  .elementor-element-f075bff .jw-posts .entry-title {
+    font-size: 22px;
+    text-align: left;
+    padding: 0px 0px 0px 0px;
+    margin: 10px 0px 10px 0px;
+  }
+
+  .elementor-element-f075bff .jw-posts .post-meta {
+    color: var(--e-global-color-accent);
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 30px 0px;
+    text-align: left;
+  }
+
+  .elementor-element-f075bff .jw-posts .post-meta a {
+    color: #D9D9D9;
+  }
+
+  .elementor-element-f075bff .jw-posts .entry-excerpt {
+    text-align: left;
+  }
+
+  .elementor-element-f075bff .jw-posts .jw-more {
+    background-color: #02010100;
+    color: var(--e-global-color-accent);
+    padding: 0px 0px 0px 0px;
+    border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    align-self: flex-start;
+  }
+
+  /*element 25948542 seccion footer Get an appointment  */
+  .elementor-element-25948542:not(.elementor-motion-effects-element-type-background),
+  .elementor-element-25948542>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-59368aa);
+  }
+
+  .elementor-element-25948542 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 50px 0px 50px 0px;
+  }
+
+  .elementor-element-25948542>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  }
+
+  /* element 5970e65e div Get an appointment */
+  .elementor-element-5970e65e.elementor-column .elementor-widget-wrap {
+    align-items: center;
+  }
+
+  /* .elementor-element-37fc3dae>.elementor-widget-container {
+    margin: 15px 0px 0px 0px;
+  } */
+
+  @media(max-width:1024px) {
+    .elementor-12 .elementor-element.elementor-element-38528d87 {
+      padding: 100px 15px 0px 15px;
+    }
+
+    .elementor-element-7f29e01f>.elementor-element-populated,
+    .elementor-element-67524b38>.elementor-element-populated {
+      margin: 0px 5px 0px 0px;
+    }
+
+    .elementor-element-5fd11749 {
+      --icon-box-icon-margin: 0px;
+    }
+
+    .elementor-element-5fd11749 .elementor-icon-box-title,
+    .elementor-element-1310d10c .elementor-icon-box-title,
+    .elementor-element-79d1be80 .elementor-icon-box-title,
+    .elementor-element-2069e44 .elementor-icon-box-title,
+    .elementor-element-73c7425e .elementor-icon-box-title {
+      margin-bottom: 5px;
+    }
+
+    .elementor-element-3092ef72>.elementor-element-populated {
+      margin: 0px 0px 0px 5px;
+    }
+
+    .elementor-element-1310d10c,
+    .elementor-element-79d1be80,
+    .elementor-element-2069e44,
+    .elementor-element-73c7425e {
+      --icon-box-icon-margin: 0px;
+    }
+
+    .elementor-element-16df1b2a {
+      padding: 0px 0px 12px 0px;
+    }
+
+    .elementor-element-2069e44 .elementor-icon-box-wrapper {
+      padding-top: 12px;
+    }
+
+    .elementor-element-d72268e,
+    .elementor-element-27c79068,
+    .elementor-element-710b06cf,
+    .elementor-element-6506c946,
+    .elementor-element-405e3f5 {
+      padding: 50px 15px 50px 15px;
+    }
+
+    .elementor-element-1e509521>.elementor-element-populated {
+      padding: 0px 30px 0px 30px;
+    }
+
+    .elementor-element-616d568b>.elementor-element-populated {
+      padding: 15px 15px 15px 15px;
+    }
+
+    .elementor-element-f075bff .jw-posts .entry-title {
+      font-size: 18px;
+      line-height: 28px;
+    }
+
+    .elementor-element-25948542 {
+      padding: 50px 15px 50px 15px;
+    }
+  }
+
+  @media(max-width:767px) {
+    .elementor-element-38528d87>.elementor-container {
+      min-height: 480px;
+    }
+
+    .elementor-element-38528d87 {
+      padding: 100px 15px 0px 15px;
+    }
+
+    .elementor-element-460fff6f>.elementor-widget-container {
+      margin: 0px 0px 10px 0px;
+    }
+
+    .elementor-element-64fc642e>.elementor-widget-container {
+      margin: 0px 0px 15px 0px;
+    }
+
+    .elementor-element-61c5c66b {
+      margin-top: 15px;
+      margin-bottom: 0px;
+    }
+
+    .elementor-element-67524b38>.elementor-element-populated,
+    .elementor-element-1a184a48>.elementor-element-populated,
+    .elementor-element-31c5d4b2>.elementor-widget-container {
+      margin: 0px 0px 0px 0px;
+
+    }
+
+
+    .elementor-element-721ad244>.elementor-element-populated {
+      margin: 0px 0px 30px 0px;
+
+    }
+
+    .elementor-element-7103912f img,
+    .elementor-element-587d8512 img {
+      width: 100%;
+    }
+
+    .elementor-element-7f29e01f>.elementor-element-populated,
+    .elementor-element-3092ef72>.elementor-element-populated,
+    .elementor-element-6052fbf4>.elementor-element-populated,
+    .elementor-element-57cf9668>.elementor-element-populated,
+    .elementor-element-47a8f17c>.elementor-element-populated,
+    .elementor-element-7246209d>.elementor-element-populated {
+      margin: 0px 0px 15px 0px;
+
+    }
+
+    .elementor-element-4762147b {
+      padding: 0px 15px 0px 15px;
+    }
+
+    .elementor-element-1e509521>.elementor-element-populated {
+      margin: 0px 0px 0px 0px;
+      padding: 15px 15px 15px 15px;
+    }
+
+    .elementor-element-616d568b>.elementor-element-populated,
+    .elementor-element-5bbae2>.elementor-element-populated {
+      padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-element-5e66a3be>.elementor-element-populated,
+    .elementor-element-2ece173d>.elementor-element-populated {
+      margin: 30px 0px 0px 0px;
+    }
+  }
+
+  @media(min-width:768px) {
+    .elementor-element-c589d2a {
+      width: 20.351%;
+    }
+
+    .elementor-element.elementor-element-e6922e2 {
+      width: 79.649%;
+    }
+
+    .elementor-element-3a06a770 {
+      width: 55%;
+    }
+
+    .elementor-element-4392501a {
+      width: 44.953%;
+    }
+  }
+
+  @media(max-width:1024px) and (min-width:768px) {
+    .elementor-element-3a06a770 {
+      width: 60%;
+    }
+
+    .elementor-element-7dd6aa5f,
+    .elementor-element-18faabef,
+    .elementor-element-79958dca,
+    .elementor-element-6cb8fe7a {
+      width: 50%;
+    }
+
+  }

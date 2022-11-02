@@ -1,0 +1,122 @@
+.elementor-section.elementor-section-boxed>.elementor-container {
+  max-width: 1140px;
+}
+
+.e-container {
+  --container-max-width: 1140px;
+}
+
+.elementor-widget:not(:last-child) {
+  margin-bottom: 0px;
+}
+
+.elementor-element {
+  --widgets-spacing: 0px;
+}
+
+/* CONTENEDOR PRINCIPAL */
+.elementor-section .elementor-container {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+}
+
+
+
+/* IMAGENES */
+.elementor-widget-image {
+  text-align: center;
+}
+
+.elementor-widget-image a {
+  display: inline-block;
+}
+
+.elementor-widget-image a img[src$=".svg"] {
+  width: 48px;
+}
+
+.elementor-widget-image img {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.elementor-nav-menu--layout-horizontal {
+  display: flex;
+}
+
+.elementor-section {
+  position: relative;
+}
+
+.elementor-column,
+.elementor-column-wrap {
+  position: relative;
+  display: flex;
+}
+
+.elementor-widget-wrap {
+  position: relative;
+  width: 100%;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+.elementor-widget-wrap>.elementor-element {
+  width: 100%;
+}
+
+.elementor:not(.elementor-bc-flex-widget) .elementor-widget-wrap {
+  display: flex;
+}
+
+/* FAQ Accordion */
+.pp-advanced-accordion {
+  margin: 30px 0px 0px 0px
+}
+
+.pp-counter-number-wrap {
+  font-size: 69px;
+  line-height: 1;
+}
+
+.pp-advanced-accordion .pp-accordion-tab-title {
+  padding: 15px;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1;
+  transition: all .3s ease-in-out;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  outline: 0
+}
+
+.pp-accordion-tab-active-default .pp-accordion-toggle-icon-close,
+.pp-accordion-tab-show .pp-accordion-toggle-icon-close,
+.pp-accordion-toggle-icon-open {
+  display: none
+}
+
+.pp-accordion-tab-active-default .pp-accordion-toggle-icon-open,
+.pp-accordion-tab-show .pp-accordion-toggle-icon-open {
+  display: inline-block
+}
+
+.pp-accordion-tab-content {
+  display: none;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 1rem;
+  line-height: 1.7
+}
+
+.pp-accordion-tab-content p:last-child {
+  margin: 0
+}
+
+.pp-accordion-tab-content.pp-accordion-tab-active {
+  display: block
+}
