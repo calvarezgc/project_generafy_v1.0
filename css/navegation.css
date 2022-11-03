@@ -35,7 +35,6 @@
   padding: 0
 }
 
-
 .elementor-nav-menu,
 .elementor-nav-menu li,
 .elementor-nav-menu ul {
@@ -59,13 +58,16 @@
   -ms-flex-align: center;
   align-items: center;
   color: white;
+
 }
 
 .elementor-nav-menu a,
 .elementor-nav-menu a:focus,
 .elementor-nav-menu a:hover {
   padding: 10px 20px;
-  line-height: 20px
+  line-height: 20px;
+  list-style: none;
+  text-decoration: none;
 }
 
 .elementor-nav-menu .sub-arrow {
@@ -127,8 +129,13 @@
 
 .brand a {
   color: white;
-  text-decoration: none;
   text-transform: uppercase;
+}
+
+.brand a:hover {
+  color: white;
+  text-decoration: none;
+  list-style: none;
 }
 
 nav {
@@ -239,6 +246,8 @@ nav ul li ul li a {
     background: #55595C;
     color: #ffffff;
     transition: .4s;
+    text-decoration: none;
+    list-style: none;
   }
 
   nav {
