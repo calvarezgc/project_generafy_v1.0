@@ -51,12 +51,12 @@
   position: absolute
 }
 
-.e-container>.elementor-element.elementor-absolute,
+.elementor-container>.elementor-element.elementor-absolute,
 .elementor-widget-wrap>.elementor-element.elementor-absolute {
   position: absolute
 }
 
-.e-container>.elementor-element.elementor-fixed,
+.elementor-container>.elementor-element.elementor-fixed,
 .elementor-widget-wrap>.elementor-element.elementor-fixed {
   position: fixed
 }
