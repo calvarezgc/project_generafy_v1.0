@@ -218,6 +218,16 @@
   padding-top: 30px;
 }
 
+.elementor-element-seccion-strateg {
+  padding-top: 50px;
+}
+
+.elementor-element-seccion-strateg:not(.elementor-motion-effects-element-type-background),
+.elementor-element-seccion-strateg>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-color: var(--e-global-color-primary);
+}
+
+
 .elementor-element-seccion-somos:not(.elementor-motion-effects-element-type-background),
 .elementor-element-seccion-somos>.elementor-motion-effects-container>.elementor-motion-effects-layer {
   background-color: var(--e-global-color-primary);
@@ -1026,6 +1036,7 @@ body.rtl .elementor-12 .elementor-element.elementor-element-experto4 .jw-team-me
   .elementor-element-405e3f5 {
     padding: 50px 15px 50px 15px;
   }
+
 
   .elementor-element-container-logos>.elementor-element-populated {
     padding: 0px 30px 0px 30px;
