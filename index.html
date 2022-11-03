@@ -11,7 +11,7 @@
     media='all' />
   <link rel='stylesheet' href="./css/fontawesome.min.css" media='all' />
   <link rel="stylesheet" href="./css/style.css" />
-  <link rel="stylesheet" href="./css/navegation.css" />
+  <link rel="stylesheet" href="./css/responsive_menu.css">
   <link rel="stylesheet" href="./css/galeria_imagenes.css">
   <link rel="stylesheet" href="./css/testimonial_slider.css">
   <link rel="stylesheet" href="./css/carousel_slider.css" />
@@ -32,6 +32,10 @@
   <script src="https://kit.fontawesome.com/d376d2289e.js" crossorigin="anonymous"></script>
   <link rel="canonical" href="http://generafy.com/home" />
   <link rel="shortlink" href="http://generafy.com/?p=12" />
+
+
+  <!-- Boxicons CDN Link -->
+  <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
 </head>
 
 <body class="fuentes">
@@ -55,88 +59,34 @@
               data-settings='{"layout":"horizontal","submenu_icon":{"value":"&lt;i class=\"fas fa-caret-down\"&gt;&lt;\/i&gt;","library":"fa-solid"},"toggle":"burger"}'
               data-widget_type="nav-menu.default">
               <div class="elementor-widget-container">
-                <!-- NAV ORDENADOR-->
-                <nav class="elementor-nav-menu--main elementor-nav-menu--layout-horizontal navEscritorio">
-                  <ul class="elementor-nav-menu">
-                    <li>
-                      <a href="http://generafy.com/home" aria-current="page"
-                        class="elementor-item elementor-item-active menu-link">Home</a>
-                    </li>
-                    <li>
-                      <a href="http://generafy.com/metodo-generafy" class="elementor-item menu-link">Método
-                        Generafy</a>
-                      <ul class="elementor-nav-menu--dropdown">
+                <nav>
+                  <div class="navbar">
+                    <i class='bx bx-menu'></i>
+                    <div class="logo"><a href="#">Generafy</a></div>
+                    <div class="nav-links">
+                      <div class="sidebar-logo">
+                        <span class="logo-name">Generafy</span>
+                        <i class='bx bx-x'></i>
+                      </div>
+                      <ul class="links">
+                        <li><a href="#">Home</a></li>
                         <li>
-                          <a href="http://generafy.com/clickafy" class="elementor-sub-item menu-link">Clickafy</a>
-                        </li>
-                        <li>
-                          <a href="http://generafy.com/lead-generator" class="elementor-sub-item menu-link">Lead
-                            Generators</a>
-                        </li>
-                        <li>
-                          <a href="http://generafy.com/leadconverter" class="elementor-sub-item menu-link">Lead
-                            Converter</a>
-                        </li>
-                        <li>
-                          <a href="http://generafy.com/diferenciate"
-                            class="elementor-sub-item menu-link">Diferenciate</a>
-                        </li>
-                        <li>
-                          <a href="http://generafy.com/impulsate" class="elementor-sub-item menu-link">Impúlsate</a>
-                        </li>
-                      </ul>
-                    </li>
-                    <li>
-                      <a href="http://generafy.com/contacto" class="elementor-item menu-link">Contacto</a>
-                    </li>
-                    <li>
-                      <a href="http://generafy.com/acceso-a-clientes" class="elementor-item menu-link">Acceso a
-                        Clientes</a>
-                    </li>
-                  </ul>
-                </nav>
-                <!-- MENU MOVIL -->
-                <section class="navigation-mobile">
-                  <div class="nav-container">
-                    <div class="brand"><a href="#">Logo</a></div>
-                    <nav>
-                      <div class="nav-mobile"><a id="nav-toggle" href="#!"><span></span></a></div>
-                      <ul class="nav-list">
-                        <li><a href="#!">Home</a></li>
-                        <li class="dropdown"><a href="#!">Método
-                            Generafy</a>
-                          <ul class="nav-dropdown">
+                          <a href="#">Método Generafy</a>
+                          <i class='bx bxs-chevron-down metodo-arrow arrow  '></i>
+                          <ul class="metodo-sub-menu sub-menu">
                             <li><a href="#">Clickafy</a></li>
-                            <li><a href="#">Lead Generators</a></li>
+                            <li><a href="#">Lead Generator</a></li>
                             <li><a href="#">Lead Converter</a></li>
                             <li><a href="#">Diferenciate</a></li>
                             <li><a href="#">Impulsate</a></li>
                           </ul>
                         </li>
-                        <li><a href="#!">Contacto</a></li>
-                        <li><a href="#!">Acceso a Clientes</a></li>
+                        <li><a href="#">Contacto</a></li>
+                        <li><a href="#">Acceso a Clientes</a></li>
                       </ul>
-                    </nav>
+                    </div>
                   </div>
-                </section>
-                <script>
-                  $('.dropdown').click(function (e) {
-                    e.stopPropagation();
-                    $('.nav-dropdown').toggle();
-                  });
-
-                  $('html').click(function () {
-                    $('.nav-dropdown').hide();
-                  })
-
-                  $('#nav-toggle').on('click', function () {
-                    this.classList.toggle('active');
-                  });
-
-                  $("#nav-toggle").click(function () {
-                    $("nav ul").toggle();
-                  });
-                </script>
+                </nav>
               </div>
             </div>
           </div>
@@ -1635,6 +1585,8 @@
       </div>
     </section>
   </div>
+
+  <script src="./scripts/responsive_menu.js"></script>
   <!-- CONTADOR LOS NUMEROS NOS AVALAN -->
   <script src="./scripts/waypoints.min.js"></script>
   <script src="./scripts/odometer.min.js"></script>
