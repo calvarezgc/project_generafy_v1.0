@@ -324,6 +324,7 @@
   margin: 0 -15px -15px 0;
   display: flex;
   flex-wrap: wrap;
+  margin-top: 50px;
 }
 
 .elementor-element-galeria-imagenes .gallery-item .gallery-caption {
