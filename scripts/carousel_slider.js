@@ -1,4 +1,8 @@
 /**
+ * Slider de las 5 estrategias
+ */
+
+/**
  * Element selector.
  */
 var leftArrow = document.getElementById("slideLeft");

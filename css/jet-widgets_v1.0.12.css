@@ -1,25 +1,19 @@
-/* SECCION MIEMBROS */
+/* Sección Equipo */
 
-/* apartado miembros esconder contenido saliente */
+/* Slider del apartado equipo para esconder contenido saliente */
 .slick-list {
   overflow: hidden;
   margin: 0;
   padding: 0
 }
 
-/* circulo completo en imagen miembros */
-.slick-slide img {
-  display: block;
-  margin: auto
-}
-
+/* Nuestros expertos */
 .jw-team-member .jw-team-member__name {
   font-size: 20px;
   color: black;
   margin: 10px 0;
 }
 
-/* SOCIAL MEMBERS */
 .jw-team-member__socials {
   display: -webkit-box;
   display: -ms-flexbox;

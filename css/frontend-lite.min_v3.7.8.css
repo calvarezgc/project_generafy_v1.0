@@ -14,7 +14,6 @@
   border: 0
 }
 
-
 /* BOTON ULTIMO */
 .elementor *,
 .elementor :after,
@@ -42,7 +41,6 @@
   margin: 0
 }
 
-
 .elementor .elementor-background-overlay {
   height: 100%;
   width: 100%;
@@ -65,7 +63,6 @@
 .elementor-widget-wrap .elementor-element.elementor-widget__width-initial {
   max-width: 100%
 }
-
 
 .elementor-invisible {
   visibility: hidden
@@ -193,24 +190,6 @@
   }
 }
 
-@media (min-width:1025px) {
-  #elementor-device-mode:after {
-    content: "desktop"
-  }
-}
-
-@media (max-width:1024px) {
-  #elementor-device-mode:after {
-    content: "tablet"
-  }
-}
-
-@media (max-width:767px) {
-  #elementor-device-mode:after {
-    content: "mobile"
-  }
-}
-
 .elementor-button {
   display: inline-block;
   line-height: 1;
@@ -226,56 +205,20 @@
   transition: all .3s
 }
 
-.swiper-container {
-  margin-left: auto;
-  margin-right: auto;
-  position: relative;
-  overflow: hidden;
-  z-index: 1
+/* @media (min-width:1025px) {
+  #elementor-device-mode:after {
+    content: "desktop"
+  }
 }
 
-.swiper-slide {
-  -ms-flex-negative: 0;
-  flex-shrink: 0;
-  width: 100%;
-  height: 100%;
-  position: relative
+@media (max-width:1024px) {
+  #elementor-device-mode:after {
+    content: "tablet"
+  }
 }
 
-.swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet {
-  margin: 0 6px;
-}
-
-.swiper-container-horizontal>.swiper-pagination-bullets {
-  bottom: 5px;
-  left: 0;
-  width: 100%;
-}
-
-.swiper-pagination-bullet {
-  width: 6px;
-  height: 6px;
-  display: inline-block;
-  border-radius: 50%;
-  background: #000;
-  opacity: .2;
-}
-
-.swiper-pagination-clickable .swiper-pagination-bullet {
-  cursor: pointer;
-}
-
-.swiper-pagination-bullet-active {
-  opacity: 1;
-}
-
-.swiper-pagination {
-  position: absolute;
-  text-align: center;
-  -webkit-transition: .3s;
-  -o-transition: .3s;
-  transition: .3s;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-  z-index: 10;
-}
+@media (max-width:767px) {
+  #elementor-device-mode:after {
+    content: "mobile"
+  }
+} */

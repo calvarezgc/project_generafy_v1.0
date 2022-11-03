@@ -1,3 +1,7 @@
+/**
+ * Menu de navegación
+ */
+
 // search-box open close js code
 let navbar = document.querySelector(".navbar");
 

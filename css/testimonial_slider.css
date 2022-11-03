@@ -1,3 +1,5 @@
+/* Slider de nuestros clientes dicen */
+
 .itemPosition {
   display: flex;
 }
@@ -19,7 +21,7 @@
   padding: 0;
 }
 
-/* Image */
+/* Imagen */
 .testimonials .carousel-inner .carousel-item .team {
   width: 60px;
   height: 60px;
