@@ -1,4 +1,7 @@
 /* MENU */
+.defaultPadding {
+  padding: initial;
+}
 
 .elementor-item:after,
 .elementor-item:before {
@@ -104,6 +107,7 @@
   top: 0;
   width: 100%;
   z-index: 1000;
+  padding: initial;
 }
 
 .nav-container {
