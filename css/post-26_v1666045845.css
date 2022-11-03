@@ -114,7 +114,7 @@
     max-width: 1024px;
   }
 
-  .e-container {
+  .elementor-container {
     --container-max-width: 1024px;
   }
 }
@@ -129,7 +129,7 @@
     max-width: 767px;
   }
 
-  .e-container {
+  .elementor-container {
     --container-max-width: 767px;
   }
 }
