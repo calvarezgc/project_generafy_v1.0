@@ -26,7 +26,7 @@
 
 .elementor-element-contador:not(.elementor-motion-effects-element-type-background),
 .elementor-element-contador>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-  background-image: url("http://generafy.com/wp-content/uploads/2022/10/happy-young-business-people-colleagues-talking-wor-9C7FL4V.jpg");
+  background-image: url("./img/happy-young-business-people-colleagues-talking-wor-9C7FL4V.jpg");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -35,7 +35,7 @@
 .elementor-element-contador:not(.elementor-motion-effects-element-type-background),
 .elementor-element-contador>.elementor-motion-effects-container>.elementor-motion-effects-layer {
   background-attachment: fixed;
-  background-image: url("http://generafy.com/wp-content/uploads/2022/10/happy-young-business-people-colleagues-talking-wor-9C7FL4V.jpg");
+  background-image: url("./img/happy-young-business-people-colleagues-talking-wor-9C7FL4V.jpg");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -71,14 +71,14 @@
 
 .elementor-element-header:not(.elementor-motion-effects-element-type-background),
 .elementor-element-header>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-  background-image: url("./img/businesswomen-and-architects-talking-in-office-G8HSQE9-1.jpg");
+  background-image: url("./img/hero-bg/businesswomen-and-architects-talking-in-office-G8HSQE9-1.jpg");
   background-position: center right;
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .elementor-element-header>.elementor-background-overlay {
-  background-image: url("./img/hero.png");
+  background-image: url("./img/hero-bg/hero.png");
   background-position: center left;
   background-size: cover;
   opacity: 1;
@@ -677,7 +677,7 @@ body.rtl .elementor-12 .elementor-element.elementor-element-experto4 .jw-team-me
 
 .elementor-element-container-low-opacity:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-element-container-low-opacity>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-  background-image: url("http://generafy.com/wp-content/uploads/2022/10/happy-smiling-woman-working-in-call-center-WZECZ2U.jpg");
+  background-image: url("./img/happy-smiling-woman-working-in-call-center-WZECZ2U.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
