@@ -11,90 +11,9 @@ section {
   padding: 10px;
 }
 
-/****************
-* FAQ Accordion 
-****************/
-.elementor-element-accordion .pp-accordion-item {
-  margin-bottom: 15px;
-  border-style: solid;
-  border-width: 1px 1px 1px 1px;
-  border-color: #132C38;
-  border-radius: 5px 5px 5px 5px;
-  padding: 5px 5px 5px 5px;
-}
-
-.elementor-element-accordion .pp-advanced-accordion .pp-accordion-tab-title .pp-accordion-tab-icon {
-  font-size: 14px;
-  margin-right: 10px;
-}
-
-.elementor-element-accordion .pp-advanced-accordion .pp-accordion-item .pp-accordion-tab-content {
-  color: #E5E5E5;
-}
-
-.elementor-element-accordion .pp-advanced-accordion .pp-accordion-tab-title .pp-accordion-toggle-icon {
-  font-size: 16px;
-}
-
-.pp-advanced-accordion {
-  margin: 30px 0px 0px 0px
-}
-
-.pp-advanced-accordion .pp-accordion-tab-title {
-  padding: 15px;
-  font-size: 1rem;
-  font-weight: 600;
-  line-height: 1;
-  transition: all .3s ease-in-out;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  cursor: pointer;
-  outline: 0
-}
-
-.pp-accordion-tab-active-default .pp-accordion-toggle-icon-close,
-.pp-accordion-tab-show .pp-accordion-toggle-icon-close,
-.pp-accordion-toggle-icon-open {
-  display: none
-}
-
-.pp-accordion-tab-active-default .pp-accordion-toggle-icon-open,
-.pp-accordion-tab-show .pp-accordion-toggle-icon-open {
-  display: inline-block
-}
-
-.pp-accordion-tab-content {
-  display: none;
-  padding: 15px;
-  box-sizing: border-box;
-  font-size: 1rem;
-  line-height: 1.7
-}
-
-.pp-accordion-tab-content p:last-child {
-  margin: 0
-}
-
-.pp-accordion-tab-content.pp-accordion-tab-active {
-  display: block
-}
-
-.elementor-hidden {
-  display: none
-}
-
-.elementor-screen-only {
-  position: absolute;
-  top: -10000em;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  border: 0
-}
+/*********************
+* Container
+*********************/
 
 .elementor-section.elementor-section-boxed>.elementor-container {
   max-width: 1140px;
@@ -104,15 +23,6 @@ section {
   --container-max-width: 1140px;
 }
 
-.elementor-widget:not(:last-child) {
-  margin-bottom: 0px;
-}
-
-.elementor-element {
-  --widgets-spacing: 0px;
-}
-
-/* CONTENEDOR PRINCIPAL */
 .elementor-section .elementor-container {
   display: flex;
   margin-right: auto;

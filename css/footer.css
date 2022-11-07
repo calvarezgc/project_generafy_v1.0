@@ -1,0 +1,48 @@
+/*********************
+*SECCION Footer 
+*********************/
+
+.elementor-element-btn-footer.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+  align-content: center;
+  align-items: center;
+}
+
+.elementor-element-seccion-footer:not(.elementor-motion-effects-element-type-background),
+.elementor-element-seccion-footer>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-color: var(--e-global-color-59368aa);
+}
+
+.elementor-element-seccion-footer {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 50px 0px 50px 0px;
+}
+
+.elementor-element-seccion-footer>.elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+
+.elementor-element-div-footer.elementor-column .elementor-widget-wrap {
+  align-items: center;
+}
+
+.elementor-element-div-footer h3 {
+  margin-bottom: 20px;
+}
+
+/*********************
+*MEDIA QUERIES / BREAKPOINTS
+*********************/
+
+@media(max-width:1024px) {
+
+  .elementor-element-seccion-footer {
+    padding: 50px 15px 50px 15px;
+  }
+}
+
+@media(max-width:767px) {
+  .elementor-element-btn-footer>.elementor-element-populated {
+    margin: 30px 0px 0px 0px;
+  }
+}

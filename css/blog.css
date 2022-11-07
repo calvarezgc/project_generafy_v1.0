@@ -1,0 +1,89 @@
+/*********************
+*SECCION Blog
+*********************/
+.elementor-element-seccion-blog:not(.elementor-motion-effects-element-type-background),
+.elementor-element-seccion-blog>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-color: var(--e-global-color-primary);
+}
+
+.elementor-element-seccion-blog {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 100px 0px 100px 0px;
+}
+
+.elementor-element-seccion-blog>.elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-element-seccion-blog>.elementor-container {
+  max-width: 560px;
+}
+
+.elementor-element-seccion-blog {
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+
+.elementor-element-texto-blog,
+.elementor-element-h2-blog,
+.elementor-element-text-blog {
+  text-align: center;
+}
+
+.elementor-element-texto-blog>.elementor-widget-container {
+  margin: 0px 0px 15px 0px;
+}
+
+.elementor-element-h2-blog>.elementor-widget-container {
+  margin: 0px 0px 10px 0px;
+}
+
+.elementor-element-post-blog .jw-posts .jw-posts__inner-content {
+  padding: 0px 0px 0px 0px;
+}
+
+.elementor-element-post-blog .jw-posts .entry-title a {
+  color: #E7E7E7;
+}
+
+.elementor-element-post-blog .jw-posts .entry-title {
+  font-size: 22px;
+  text-align: left;
+  padding: 0px 0px 0px 0px;
+  margin: 10px 0px 10px 0px;
+}
+
+.elementor-element-post-blog .jw-posts .post-meta {
+  color: var(--e-global-color-accent);
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 30px 0px;
+  text-align: left;
+}
+
+.elementor-element-post-blog .jw-posts .post-meta a {
+  color: #D9D9D9;
+}
+
+.elementor-element-post-blog .jw-posts .entry-excerpt {
+  text-align: left;
+}
+
+.elementor-element-post-blog .jw-posts .jw-more {
+  background-color: #02010100;
+  color: var(--e-global-color-accent);
+  padding: 0px 0px 0px 0px;
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  align-self: flex-start;
+}
+
+/*********************
+*MEDIA QUERIES / BREAKPOINTS
+*********************/
+
+@media(max-width:1024px) {
+  .elementor-element-post-blog .jw-posts .entry-title {
+    font-size: 18px;
+    line-height: 28px;
+  }
+}

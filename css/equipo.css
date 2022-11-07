@@ -1,0 +1,644 @@
+/*********************
+*SECCION Nuestros Expertos (Equipo)
+*********************/
+.elementor-element-seccion-nuestros-expertos {
+  padding: 100px 0px 100px 0px;
+}
+
+.elementor-element-seccion-equipo>.elementor-container {
+  max-width: 560px;
+}
+
+.elementor-element-seccion-equipo {
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+
+.elementor-element-clientes-dicen,
+.elementor-element-equipo,
+.elementor-element-expertos,
+.elementor-element-parrExpertos {
+  text-align: center;
+}
+
+.elementor-element-equipo>.elementor-widget-container {
+  margin: 0px 0px 15px 0px;
+}
+
+.elementor-element-expertos>.elementor-widget-container {
+  margin: 0px 0px 10px 0px;
+}
+
+.elementor-element-container-experto1>.elementor-element-populated {
+  margin: 0px 10px 0px 10px;
+}
+
+.elementor-element-experto1 .jw-team-member__image {
+  border-radius: 5px 5px 5px 5px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+.elementor-element-experto1 .jw-team-member__figure {
+  border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-element-experto1 .jw-team-member__name .jw-team-member__name-first {
+  color: var(--e-global-color-text);
+}
+
+.elementor-element-experto1 .jw-team-member__name .jw-team-member__name-last {
+  color: var(--e-global-color-text);
+}
+
+.elementor-element-experto1 .jw-team-member__name {
+  padding: 0px 0px 0px 0px;
+  margin: 15px 0px 0px 0px;
+  text-align: center;
+  order: 1;
+}
+
+.elementor-element-experto1 .jw-team-member__position {
+  color: #D9D9D9;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  align-self: center;
+  text-align: center;
+  order: 2;
+}
+
+.elementor-element-experto1 .jw-team-member__desc {
+  align-self: center;
+  text-align: center;
+  order: 3;
+}
+
+.elementor-element-experto1 .jw-team-member__socials {
+  align-self: center;
+  order: 4;
+}
+
+body:not(.rtl) .elementor-12 .elementor-element.elementor-element-experto1 .jw-team-member__socials-item:not(:last-child) {
+  margin-right: 15px;
+}
+
+body.rtl .elementor-12 .elementor-element.elementor-element-experto1 .jw-team-member__socials-item:not(:last-child) {
+  margin-left: 15px;
+}
+
+.elementor-element-experto1 .jw-team-member__socials-icon .jet-widgets-icon {
+  color: var(--e-global-color-text);
+  font-size: 16px;
+}
+
+.elementor-element-experto1 .jw-team-member__socials-icon .inner {
+  width: 0px;
+  height: 0px;
+  margin: 10px 5px 0px 5px;
+}
+
+.elementor-element-experto1 .jw-team-member__button-container {
+  justify-content: center;
+  order: 5;
+}
+
+.elementor-element-experto1 .jw-team-member__cover {
+  justify-content: center;
+}
+
+.elementor-element-container-experto2>.elementor-element-populated {
+  margin: 0px 10px 0px 10px;
+}
+
+.elementor-element-experto2 .jw-team-member__image {
+  border-radius: 5px 5px 5px 5px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+.elementor-element-experto2 .jw-team-member__figure {
+  border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-element-experto2 .jw-team-member__name .jw-team-member__name-first {
+  color: var(--e-global-color-text);
+}
+
+.elementor-element-experto2 .jw-team-member__name .jw-team-member__name-last {
+  color: var(--e-global-color-text);
+}
+
+.elementor-element-experto2 .jw-team-member__name {
+  padding: 0px 0px 0px 0px;
+  margin: 15px 0px 0px 0px;
+  text-align: center;
+  order: 1;
+}
+
+.elementor-element-experto2 .jw-team-member__position {
+  color: #D9D9D9;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  align-self: center;
+  text-align: center;
+  order: 2;
+}
+
+.elementor-element-experto2 .jw-team-member__desc {
+  align-self: center;
+  text-align: center;
+  order: 3;
+}
+
+.elementor-element-experto2 .jw-team-member__socials {
+  align-self: center;
+  order: 4;
+}
+
+body:not(.rtl) .elementor-element-experto2 .jw-team-member__socials-item:not(:last-child) {
+  margin-right: 15px;
+}
+
+body.rtl .elementor-element-experto2 .jw-team-member__socials-item:not(:last-child) {
+  margin-left: 15px;
+}
+
+.elementor-element-experto2 .jw-team-member__socials-icon .jet-widgets-icon {
+  color: var(--e-global-color-text);
+  font-size: 16px;
+}
+
+.elementor-element-experto2 .jw-team-member__socials-icon .inner {
+  width: 0px;
+  height: 0px;
+  margin: 10px 5px 0px 5px;
+}
+
+.elementor-element-experto2 .jw-team-member__button-container {
+  justify-content: center;
+  order: 5;
+}
+
+.elementor-element-experto2 .jw-team-member__cover {
+  justify-content: center;
+}
+
+.elementor-element-container-experto3>.elementor-element-populated {
+  margin: 0px 10px 0px 10px;
+}
+
+.elementor-element-experto3 .jw-team-member__image {
+  border-radius: 5px 5px 5px 5px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+.elementor-element-experto3 .jw-team-member__figure {
+  border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-element-experto3 .jw-team-member__name .jw-team-member__name-first {
+  color: var(--e-global-color-text);
+}
+
+.elementor-element-experto3 .jw-team-member__name .jw-team-member__name-last {
+  color: var(--e-global-color-text);
+}
+
+.elementor-element-experto3 .jw-team-member__name {
+  padding: 0px 0px 0px 0px;
+  margin: 15px 0px 0px 0px;
+  text-align: center;
+  order: 1;
+}
+
+.elementor-element-experto3 .jw-team-member__position {
+  color: #D9D9D9;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  align-self: center;
+  text-align: center;
+  order: 2;
+}
+
+.elementor-element-experto3 .jw-team-member__desc {
+  align-self: center;
+  text-align: center;
+  order: 3;
+}
+
+.elementor-element-experto3 .jw-team-member__socials {
+  align-self: center;
+  order: 4;
+}
+
+body:not(.rtl) .elementor-12 .elementor-element.elementor-element-experto3 .jw-team-member__socials-item:not(:last-child) {
+  margin-right: 15px;
+}
+
+body.rtl .elementor-12 .elementor-element.elementor-element-experto3 .jw-team-member__socials-item:not(:last-child) {
+  margin-left: 15px;
+}
+
+.elementor-element-experto3 .jw-team-member__socials-icon .jet-widgets-icon {
+  color: var(--e-global-color-text);
+  font-size: 16px;
+}
+
+.elementor-element-experto3 .jw-team-member__socials-icon .inner {
+  width: 0px;
+  height: 0px;
+  margin: 10px 5px 0px 5px;
+}
+
+.elementor-element-experto3 .jw-team-member__button-container {
+  justify-content: center;
+  order: 5;
+}
+
+.elementor-element-experto3 .jw-team-member__cover {
+  justify-content: center;
+}
+
+.elementor-element-container-experto4>.elementor-element-populated {
+  margin: 0px 10px 0px 10px;
+}
+
+.elementor-element-experto4 .jw-team-member__image {
+  border-radius: 5px 5px 5px 5px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+.elementor-element-experto4 .jw-team-member__figure {
+  border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-element-experto4 .jw-team-member__name .jw-team-member__name-first {
+  color: var(--e-global-color-text);
+}
+
+.elementor-element-experto4 .jw-team-member__name .jw-team-member__name-last {
+  color: var(--e-global-color-text);
+}
+
+.elementor-element-experto4 .jw-team-member__name {
+  padding: 0px 0px 0px 0px;
+  margin: 15px 0px 0px 0px;
+  text-align: center;
+  order: 1;
+}
+
+.elementor-element-experto4 .jw-team-member__position {
+  color: #D9D9D9;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  align-self: center;
+  text-align: center;
+  order: 2;
+}
+
+.elementor-element-experto4 .jw-team-member__desc {
+  align-self: center;
+  text-align: center;
+  order: 3;
+}
+
+.elementor-element-experto4 .jw-team-member__socials {
+  align-self: center;
+  order: 4;
+}
+
+body:not(.rtl) .elementor-12 .elementor-element.elementor-element-experto4 .jw-team-member__socials-item:not(:last-child) {
+  margin-right: 15px;
+}
+
+body.rtl .elementor-12 .elementor-element.elementor-element-experto4 .jw-team-member__socials-item:not(:last-child) {
+  margin-left: 15px;
+}
+
+.elementor-element-experto4 .jw-team-member__socials-icon .jet-widgets-icon {
+  color: var(--e-global-color-text);
+  font-size: 16px;
+}
+
+.elementor-element-experto4 .jw-team-member__socials-icon .inner {
+  width: 0px;
+  height: 0px;
+  margin: 10px 5px 0px 5px;
+}
+
+.elementor-element-experto4 .jw-team-member__button-container {
+  justify-content: center;
+  order: 5;
+}
+
+.elementor-element-experto4 .jw-team-member__cover {
+  justify-content: center;
+}
+
+
+.elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-container-logos.elementor-column .elementor-widget-wrap,
+.elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-container-low-opacity.elementor-column .elementor-widget-wrap {
+  align-items: center;
+}
+
+.elementor-element-container-logos.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated,
+.elementor-element-container-low-opacity.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+  align-content: center;
+  align-items: center;
+}
+
+.elementor-element-container-logos:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-element-container-logos>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-color: var(--e-global-color-primary);
+}
+
+.elementor-element-container-logos>.elementor-element-populated {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 100px 50px 100px 50px;
+}
+
+.elementor-element-container-logos>.elementor-element-populated>.elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-element-div-logos .gallery-item {
+  padding: 0 30px 30px 0;
+}
+
+.elementor-element-div-logos .gallery {
+  margin: 0 -30px -30px 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.elementor-element-div-logos .gallery-item .gallery-caption {
+  text-align: center;
+}
+
+.elementor-element-container-low-opacity:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-element-container-low-opacity>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-image: url("../img/happy-smiling-woman-working-in-call-center-WZECZ2U.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.elementor-element-container-low-opacity>.elementor-element-populated>.elementor-background-overlay {
+  background-color: var(--e-global-color-primary);
+  opacity: 0.9;
+}
+
+.elementor-element-container-low-opacity>.elementor-element-populated {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 0px 50px 0px 50px;
+}
+
+.elementor-element-container-low-opacity>.elementor-element-populated>.elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-element-div-low-opacity {
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+
+.jw-team-member .jw-team-member__name {
+  font-size: 20px;
+  color: black;
+  margin: 10px 0;
+}
+
+.jw-team-member__socials {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center
+}
+
+.jw-team-member__inner,
+.jw-team-member__socials-item .inner,
+.jw-testimonials__content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-flow: column nowrap;
+  flex-flow: column nowrap;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center
+}
+
+.jw-testimonials.jw-equal-cols .slick-track {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch
+}
+
+.jw-testimonials__figure {
+  position: relative;
+  overflow: hidden
+}
+
+/* Botones testimonios*/
+.jw-testimonials .jw-slick-dots {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  z-index: 99
+}
+
+.jw-testimonials .jw-slick-dots li {
+  padding: 5px;
+  margin: 0;
+  list-style: none
+}
+
+.jw-testimonials .jw-slick-dots li span {
+  display: block;
+  cursor: pointer;
+  width: 10px;
+  height: 10px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  padding: 0;
+  text-indent: -10em;
+  overflow: hidden;
+  -webkit-transition: all 200ms linear;
+  -o-transition: all 200ms linear;
+  transition: all 200ms linear
+}
+
+/*********************
+*MEDIA QUERIES / BREAKPOINTS
+*********************/
+
+@media(max-width:1024px) {
+  .elementor-element-seccion-nuestros-expertos {
+    padding: 50px 15px 50px 15px;
+  }
+
+  .elementor-element-container-logos>.elementor-element-populated {
+    padding: 0px 30px 0px 30px;
+  }
+
+  .elementor-element-container-low-opacity>.elementor-element-populated {
+    padding: 15px 15px 15px 15px;
+  }
+}
+
+@media(max-width:767px) {
+  .elementor-element-container-logos>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    padding: 15px 15px 15px 15px;
+  }
+
+  .elementor-element-container-low-opacity>.elementor-element-populated,
+  .elementor-element-container-testimonios>.elementor-element-populated {
+    padding: 0px 0px 0px 0px;
+  }
+
+  .jw-team-member__socials {
+    margin-bottom: 20px;
+  }
+
+  .elementor-element-container-experto1>.elementor-element-populated,
+  .elementor-element-container-experto2>.elementor-element-populated,
+  .elementor-element-container-experto3>.elementor-element-populated,
+  .elementor-element-container-experto4>.elementor-element-populated {
+    margin: 0px 0px 15px 0px;
+
+  }
+}
+
+@media(max-width:767px) {
+
+  .elementor-element-seccion-galeria {
+    padding: 0px 15px 0px 15px;
+  }
+
+}
+
+/****************
+*  Carousel o Slider Nuestros Expertos (Equipo)
+****************/
+.slick-list {
+  overflow: hidden;
+  margin: 0;
+  padding: 0
+}
+
+.elementor-element-slider-testimonial .jw-testimonials__item-inner {
+  margin: 30px 30px 30px 30px;
+}
+
+.elementor-element-slider-testimonial .jw-testimonials__tag-img {
+  width: 65px;
+  height: 65px;
+}
+
+.elementor-element-slider-testimonial .jw-testimonials__figure {
+  border-radius: 50px 50px 50px 50px;
+  margin: 0px 0px 0px 0px;
+  align-self: flex-start;
+  order: 4;
+}
+
+.elementor-element-slider-testimonial .jw-testimonials__instance .jw-slick-dots li span {
+  background-color: var(--e-global-color-text);
+  width: 8px;
+  height: 8px;
+}
+
+.elementor-element-slider-testimonial .jw-testimonials__instance .jw-slick-dots li span:hover,
+.elementor-element-slider-testimonial .jw-testimonials__instance .jw-slick-dots li.slick-active span {
+  background-color: var(--e-global-color-accent);
+  width: 10px;
+  height: 10px;
+}
+
+.elementor-element-slider-testimonial .jw-testimonials__instance .jw-slick-dots li {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.elementor-element-slider-testimonial .jw-testimonials__instance .jw-slick-dots {
+  justify-content: flex-start;
+}
+
+.elementor-element-slider-testimonial .jw-testimonials__icon {
+  align-self: center;
+  order: 2;
+}
+
+.elementor-element-slider-testimonial .jw-testimonials__title {
+  align-self: center;
+  text-align: center;
+  order: 3;
+}
+
+.elementor-element-slider-testimonial .jw-testimonials__comment {
+  color: #ffffff;
+  width: 100%;
+  background-color: #FFFFFF00;
+  border-radius: 5px 5px 5px 5px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 15px 0px;
+  align-self: flex-start;
+  text-align: left;
+  order: 1;
+}
+
+.elementor-element-slider-testimonial .jw-testimonials__name {
+  color: var(--e-global-color-text);
+  padding: 0px 0px 0px 90px;
+  margin: -60px 0px 0px 0px;
+  align-self: flex-start;
+  text-align: left;
+  order: 5;
+}
+
+.elementor-element-slider-testimonial .jw-testimonials__position {
+  color: var(--e-global-color-accent);
+  padding: 0px 0px 0px 90px;
+  margin: 5px 0px 0px 0px;
+  align-self: flex-start;
+  text-align: left;
+  order: 6;
+}
+
+.elementor-element-slider-testimonial .jw-testimonials__date {
+  align-self: center;
+  text-align: center;
+  order: 7;
+}
+
+.elementor-element-slider-testimonial .jw-testimonials__rating {
+  font-size: 20px;
+  order: 8;
+}

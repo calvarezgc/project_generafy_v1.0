@@ -1,0 +1,199 @@
+/*********************
+*SECCION Header 
+*********************/
+
+.elementor-element-header {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  margin-top: -120px;
+  margin-bottom: 0px;
+  padding: 60px 0px 0px 0px;
+}
+
+.elementor-element-header>.elementor-container>.elementor-column>.elementor-widget-wrap {
+  min-height: 100vh;
+  align-content: center;
+  align-items: center;
+}
+
+.elementor-element-header:not(.elementor-motion-effects-element-type-background),
+.elementor-element-header>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-image: url("./img/hero-bg/businesswomen-and-architects-talking-in-office-G8HSQE9-1.jpg");
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.elementor-element-header>.elementor-background-overlay {
+  background-image: url("./img/hero-bg/hero.png");
+  background-position: center left;
+  background-size: cover;
+  opacity: 1;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-element-header-h1 .elementor-heading-title {
+  color: #FFFFFF;
+  margin: 0px 0px 30px 0px;
+}
+
+@media(min-width:0) and (max-width:480px) {
+  .elementor-element-header>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    min-height: initial;
+  }
+}
+
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 767px) and (-webkit-min-device-pixel-ratio: 2) {
+  .elementor-element-header>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    min-height: initial;
+  }
+
+  .elementor-element-header:not(.elementor-motion-effects-element-type-background) {
+    background-image: none;
+  }
+}
+
+/* Responsive Header para Ipad Air, Ipad Mini y  Surface Pro 7 */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+  .elementor-element-header>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    min-height: initial;
+  }
+}
+
+@media (max-width: 800px) {
+  .elementor-element-header {
+    padding: 0px 0px 0px 0px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .elementor-12 .elementor-element.elementor-element-header {
+    padding: 100px 15px 0px 15px;
+  }
+
+}
+
+
+/* /*********************
+*SECCION Contador (Odometer) 
+*********************/
+.pp-counter-number-wrap {
+  font-size: 69px;
+  line-height: 1;
+}
+
+.elementor-element-webs-realizadas .pp-counter-container,
+.elementor-element-usuarios-crm .pp-counter-container,
+.elementor-element-leads-generados .pp-counter-container,
+.elementor-element-consultorias .pp-counter-container,
+.elementor-element-sectores .pp-counter-container {
+  text-align: center;
+}
+
+.elementor-element-contador {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 50px 0px 50px 0px;
+}
+
+.elementor-element-contador>.elementor-background-overlay {
+  background-color: var(--e-global-color-59368aa);
+  opacity: 0.85;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-element-contador>.elementor-background-overlay {
+  background-color: var(--e-global-color-59368aa);
+  opacity: 0.85;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-element-contador:not(.elementor-motion-effects-element-type-background),
+.elementor-element-contador>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-image: url("./img/happy-young-business-people-colleagues-talking-wor-9C7FL4V.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.elementor-element-contador:not(.elementor-motion-effects-element-type-background),
+.elementor-element-contador>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-attachment: fixed;
+  background-image: url("./img/happy-young-business-people-colleagues-talking-wor-9C7FL4V.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width:920px) {
+  .pp-counter-number-wrap {
+    font-size: 3.5rem;
+  }
+}
+
+@media (max-width: 1024px) {
+
+  .elementor-element-contador:not(.elementor-motion-effects-element-type-background),
+  .elementor-element-contador>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-attachment: initial;
+  }
+}
+
+
+
+
+/*********************
+*MEDIA QUERIES / BREAKPOINTS
+*********************/
+
+
+@media(max-width:767px) {
+  .elementor-element-revoluciona>.elementor-widget-container {
+    margin: 80px 0px 10px 0px;
+  }
+
+  .elementor-element-header>.elementor-container {
+    min-height: 480px;
+  }
+
+  .elementor-element-header {
+    padding: 100px 15px 0px 15px;
+  }
+
+  .placeholderClass {
+    display: none;
+  }
+
+  .elementor-element-header-h1>.elementor-widget-container {
+    margin: 0px 0px 15px 0px;
+  }
+
+  .elementor-element-container-acordeon>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+
+  }
+}
+
+@media(min-width:768px) {
+  .elementor-element-top-page {
+    width: 20.351%;
+  }
+
+  .elementor-element.elementor-element-container-nav {
+    width: 79.649%;
+  }
+
+  .elementor-element-div-header {
+    width: 55%;
+  }
+
+  .elementor-element-columna {
+    width: 44.953%;
+  }
+}
+
+@media (min-width:768px) and (max-width:1024px) {
+  .elementor-element-div-header {
+    width: 60%;
+  }
+
+}

@@ -1,0 +1,131 @@
+/*********************
+*SECCION Nuestros Clientes 
+*********************/
+
+.elementor-element-seccion-clientes:not(.elementor-motion-effects-element-type-background),
+.elementor-element-seccion-clientes>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-color: var(--e-global-color-primary);
+}
+
+.elementor-element.elementor-element-seccion-clientes {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 100px 0px 100px 0px;
+}
+
+.elementor-element-seccion-clientes>.elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-element-clientes-dicen>.elementor-widget-container {
+  margin: 0px 0px 10px 0px;
+}
+
+.elementor-element-seccion-testimonios {
+  padding: 0px 15px 0px 15px;
+}
+
+.elementor-element-galeria-imagenes .gallery-item {
+  padding: 0 15px 15px 0;
+}
+
+.elementor-element-galeria-imagenes .gallery {
+  margin: 0 -15px -15px 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+
+.elementor-element-galeria-imagenes .gallery-item .gallery-caption {
+  display: none;
+}
+
+/*********************
+*MEDIA QUERIES / BREAKPOINTS
+*********************/
+
+
+@media(max-width:1024px) {
+
+  .elementor-element-seccion-clientes {
+    padding: 50px 15px 50px 15px;
+  }
+
+}
+
+
+/******************
+* Carousel o Slider de los testimonios de nuestros clientes dicen 
+******************/
+
+.itemPosition {
+  display: flex;
+}
+
+.centerPosition {
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.testimonials p {
+  font-size: 1.3em;
+  font-style: italic;
+  line-height: 1.5;
+  max-width: 75ch;
+  color: #d1e5e7;
+  margin: 20px 0;
+  padding: 0;
+}
+
+
+.testimonials .carousel-inner .carousel-item .team {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  padding: 5px;
+
+}
+
+.testimonials .carousel-inner .carousel-item h3 {
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 700;
+  margin: initial;
+}
+
+.testimonials .carousel-inner .carousel-item h4 {
+  font-size: 14px;
+  font-weight: 300;
+  color: #e2e1e1;
+  margin-bottom: 20px;
+}
+
+.testimonials .carousel-indicators {
+  bottom: -40px;
+}
+
+.testimonials .carousel-indicators li {
+  background-color: #b8b7b7;
+  border-radius: 30px;
+  height: 4px;
+  width: 40px;
+}
+
+.testimonials .carousel-indicators .active {
+  background-color: #F56F01;
+}
+
+.testimonials .control span {
+  cursor: pointer;
+}
+
+.testimonials .icon {
+  height: 40px;
+  width: 40px;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  font-size: 30px;
+  background-image: none;
+  color: #ffffff;
+}
