@@ -204,21 +204,3 @@
   -o-transition: all .3s;
   transition: all .3s
 }
-
-/* @media (min-width:1025px) {
-  #elementor-device-mode:after {
-    content: "desktop"
-  }
-}
-
-@media (max-width:1024px) {
-  #elementor-device-mode:after {
-    content: "tablet"
-  }
-}
-
-@media (max-width:767px) {
-  #elementor-device-mode:after {
-    content: "mobile"
-  }
-} */
