@@ -931,6 +931,12 @@ body.rtl .elementor-12 .elementor-element.elementor-element-experto4 .jw-team-me
   margin-bottom: 20px;
 }
 
+@media(min-width:0) and (max-width:480px) {
+  .elementor-element-header>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    min-height: initial;
+  }
+}
+
 @media(max-width:1024px) {
   .elementor-12 .elementor-element.elementor-element-header {
     padding: 100px 15px 0px 15px;
@@ -1003,8 +1009,13 @@ body.rtl .elementor-12 .elementor-element.elementor-element-experto4 .jw-team-me
     padding: 100px 15px 0px 15px;
   }
 
+  .placeholderClass {
+    display: none;
+
+  }
+
   .elementor-element-revoluciona>.elementor-widget-container {
-    margin: 0px 0px 10px 0px;
+    margin: 80px 0px 10px 0px;
   }
 
   .elementor-element-header-h1>.elementor-widget-container {
