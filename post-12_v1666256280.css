@@ -47,7 +47,6 @@
   .elementor-element-contador>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-attachment: initial;
   }
-
 }
 
 @media (max-width: 800px) {
@@ -56,7 +55,6 @@
   }
 
 }
-
 
 .elementor-element-header {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -108,7 +106,6 @@
 .elementor-element-section-5-fases>.elementor-container {
   max-width: 560px;
 }
-
 
 .elementor-element-5-fases,
 .elementor-element-container-aceleradora,
@@ -256,35 +253,6 @@
   text-align: center;
 }
 
-/* Element 7103912f IMAGEN CON MASCARA 1*/
-/* .elementor-element-image-mask1 img {
-    width: 100%;
-    max-width: 100%;
-    height: 400px;
-    object-fit: cover;
-  } */
-
-/* .elementor-element-image-mask1:not(.elementor-widget-image) .elementor-widget-container {
-    mask-image: url("./img/02_creative-studio.png");
-    -webkit-mask-image: url("./img/02_creative-studio.png");
-    mask-size: contain;
-    -webkit-mask-image: contain;
-    mask-position: center center;
-    -webkit-mask-position: center center;
-    mask-repeat: no-repeat;
-    -webkit-mask-repeat: no-repeat;
-  }
-
-  .elementor-element-image-mask1.elementor-widget-image .elementor-widget-container img {
-    mask-image: url("./img/02_creative-studio.png");
-    -webkit-mask-image: url("./img/02_creative-studio.png");
-    mask-size: contain;
-    -webkit-mask-image: contain;
-    mask-position: center center;
-    -webkit-mask-position: center center;
-    mask-repeat: no-repeat;
-    -webkit-mask-repeat: no-repeat;
-  } */
 
 .elementor-element-webs-realizadas .pp-counter-container,
 .elementor-element-usuarios-crm .pp-counter-container,
@@ -837,37 +805,6 @@ body.rtl .elementor-12 .elementor-element.elementor-element-experto4 .jw-team-me
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   padding: 100px 0px 100px 0px;
 }
-
-
-/* Element 587d8512 IMAGEN CON MASCARA 2*/
-/* .elementor-element-image-mask2 img {
-    width: 100%;
-    max-width: 100%;
-    height: 400px;
-    object-fit: cover;
-  } */
-
-/* .elementor-element-image-mask2:not(.elementor-widget-image) .elementor-widget-container {
-    mask-image: url("./img/02_creative-studio.png");
-    -webkit-mask-image: url("./img/02_creative-studio.png");
-    mask-size: contain;
-    -webkit-mask-size: contain;
-    mask-position: center center;
-    -webkit-mask-position: center center;
-    mask-repeat: no-repeat;
-    -webkit-mask-repeat: no-repeat;
-  }
-
-  .elementor-element-image-mask2.elementor-widget-image .elementor-widget-container img {
-    mask-image: url("./img/02_creative-studio.png");
-    -webkit-mask-image: url("./img/02_creative-studio.png");
-    mask-size: contain;
-    -webkit-mask-size: contain;
-    mask-position: center center;
-    -webkit-mask-position: center center;
-    mask-repeat: no-repeat;
-    -webkit-mask-repeat: no-repeat;
-  } */
 
 
 .elementor-element-accordion .pp-accordion-item {
