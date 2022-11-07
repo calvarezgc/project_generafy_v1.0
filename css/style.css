@@ -1,4 +1,6 @@
-/* reset */
+/****************
+* Reset
+****************/
 * {
   padding: 0;
   margin: 0;
@@ -9,18 +11,33 @@ section {
   padding: 10px;
 }
 
-
-
 /****************
 * FAQ Accordion 
 ****************/
-.pp-advanced-accordion {
-  margin: 30px 0px 0px 0px
+.elementor-element-accordion .pp-accordion-item {
+  margin-bottom: 15px;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #132C38;
+  border-radius: 5px 5px 5px 5px;
+  padding: 5px 5px 5px 5px;
 }
 
-.pp-counter-number-wrap {
-  font-size: 69px;
-  line-height: 1;
+.elementor-element-accordion .pp-advanced-accordion .pp-accordion-tab-title .pp-accordion-tab-icon {
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.elementor-element-accordion .pp-advanced-accordion .pp-accordion-item .pp-accordion-tab-content {
+  color: #E5E5E5;
+}
+
+.elementor-element-accordion .pp-advanced-accordion .pp-accordion-tab-title .pp-accordion-toggle-icon {
+  font-size: 16px;
+}
+
+.pp-advanced-accordion {
+  margin: 30px 0px 0px 0px
 }
 
 .pp-advanced-accordion .pp-accordion-tab-title {
@@ -147,7 +164,7 @@ section {
 }
 
 
-/* BOTON */
+/* BOTONES */
 .elementor-button {
   text-decoration: none !important;
 
