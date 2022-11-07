@@ -931,11 +931,31 @@ body.rtl .elementor-12 .elementor-element.elementor-element-experto4 .jw-team-me
   margin-bottom: 20px;
 }
 
+/* responsive header */
 @media(min-width:0) and (max-width:480px) {
   .elementor-element-header>.elementor-container>.elementor-column>.elementor-widget-wrap {
     min-height: initial;
   }
 }
+
+/* responsive header para ipad air, ipad mini y  surface pro 7 */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+  .elementor-element-header>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    min-height: initial;
+  }
+}
+
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 767px) and (-webkit-min-device-pixel-ratio: 2) {
+  .elementor-element-header>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    min-height: initial;
+  }
+
+  .elementor-element-header:not(.elementor-motion-effects-element-type-background) {
+    background-image: none;
+  }
+}
+
 
 @media(max-width:1024px) {
   .elementor-12 .elementor-element.elementor-element-header {
@@ -1088,7 +1108,7 @@ body.rtl .elementor-12 .elementor-element.elementor-element-experto4 .jw-team-me
   }
 }
 
-@media(max-width:1024px) and (min-width:768px) {
+@media (min-width:768px) and (max-width:1024px) {
   .elementor-element-div-header {
     width: 60%;
   }

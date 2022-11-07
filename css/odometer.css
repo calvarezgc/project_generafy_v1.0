@@ -117,3 +117,9 @@
 .odometer.odometer-theme-default .odometer-value {
   text-align: center;
 }
+
+@media only screen and (min-device-width: 768px) and (max-device-width:920px) {
+  .pp-counter-number-wrap {
+    font-size: 3.5rem;
+  }
+}
