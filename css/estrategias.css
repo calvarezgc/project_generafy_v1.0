@@ -420,27 +420,17 @@
 }
 
 
-@media (min-width:1024px) {
-  .estrategiasControl .carousel-control-prev {
-    width: 50%;
-    top: 50%;
-  }
 
-  .estrategiasControl .carousel-control-next {
-    width: 50%;
-    top: 50%;
-  }
-}
 
 @media (max-width: 780px) {
   .estrategiasControl .carousel-control-prev {
     width: 10%;
-    top: 53%;
+    top: 40%;
   }
 
   .estrategiasControl .carousel-control-next {
     width: 10%;
-    top: 53%;
+    top: 40%;
   }
 }
 
