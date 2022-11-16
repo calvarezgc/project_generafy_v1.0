@@ -348,6 +348,7 @@
   left: 0;
 }
 
+
 .estrategias .sliderEstrategias h2 {
   font-size: 25px;
   font-weight: 700;
@@ -391,11 +392,21 @@
 }
 
 .estrategias .carousel-indicators .active {
-  background-color: #456e7e;
+  background-color: #F56F01;
 }
 
 .estrategias .control span {
   cursor: pointer;
+}
+
+.estrategiasControl .carousel-control-prev {
+  width: 50%;
+  top: 50%;
+}
+
+.estrategiasControl .carousel-control-next {
+  width: 50%;
+  top: 50%;
 }
 
 .estrategias .icon {
@@ -407,3 +418,21 @@
   background-image: none;
   color: #ffffff;
 }
+
+
+
+
+@media (max-width: 780px) {
+  .estrategiasControl .carousel-control-prev {
+    width: 10%;
+    top: 40%;
+  }
+
+  .estrategiasControl .carousel-control-next {
+    width: 10%;
+    top: 40%;
+  }
+}
+
+/* @media (min-width:480px) and (max-width: 767px) {
+  }*/
